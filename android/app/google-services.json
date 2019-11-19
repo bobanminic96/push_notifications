@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1019507355248",
+    "firebase_url": "https://liveweb-notifications.firebaseio.com",
+    "project_id": "liveweb-notifications",
+    "storage_bucket": "liveweb-notifications.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019507355248:android:c82393ab6a7eddb1c5ceb5",
+        "android_client_info": {
+          "package_name": "com.liveweb.push_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019507355248-kjsf53egpeuksgau6ctlrks7s4r5f63e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7h9QmMqoSyL4IMi1x-Nohdx7IRoBqSlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019507355248-kjsf53egpeuksgau6ctlrks7s4r5f63e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
